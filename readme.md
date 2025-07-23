@@ -11,7 +11,7 @@ A Node.js application that converts natural language text to SQL queries using O
 
 2. Set your OpenAI API key:
    ```
-   export OPENAI_API_KEY="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"
+   export OPENAI_API_KEY="YOUR KEY"
    ```
 
 3. Run the script:
